@@ -1,0 +1,30 @@
+/* CORES */
+		h1{
+			color: white;
+			border-style: solid;
+			border-color: #010101;
+			background-color: #ff0000;
+			padding: 20px 40px 60px;
+			/*padding-left: 20px;*/
+			/*paddign move somente o texto */
+		}
+		div.colorida{
+			width: 300px;
+			height: 300px;
+			border-style: solid;
+			border-color: #ff567c;
+			margin-left: 20px;
+			 background-color: rgb(69, 87, 130); ou hexadecimal #cor--> 
+			background-color: #010101
+			
+		}
+
+
+		p {
+			color: #ff0000;
+			border-style: solid;
+			width: 300px;
+			display: inline-block;
+			/*inline nao respeita tamanho e inline block respeita o tamanho*/
+
+		}
